@@ -1,0 +1,12 @@
+# Time Tracker App
+A simple desktop application to track time spent on various tasks, built using Python and Tkinter.
+
+## Features
+- Start/stop timer for tasks
+- View task history
+- Save records in JSON format
+
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/time-tracker-app.git
